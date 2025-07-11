@@ -36,4 +36,8 @@ This project moves beyond a simple OLS regression to provide a more robust estim
 
 ---
 
-*The full written report can be found in `[Your Report PDF Name].pdf` and the annotated code is in `[Your Notebook Name].ipynb`.*
+---
+
+*The full written report can be found here: [**Applied Econometrics Project FINAL.pdf**](./Applied Econometrics Project FINAL.pdf)*
+
+*The annotated Python code is in the Jupyter Notebook: [**Project Applied Econometrics Python Finale.ipynb**](./Project Applied Econometrics Python Finale(4).ipynb)*
